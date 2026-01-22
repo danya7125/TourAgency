@@ -1,0 +1,3 @@
+id,name,country,city,hotel_name,duration_days,hotel_price,flight_price,hotel_category,all_inclusive,season,available_seats,start_date,description,transfer_included
+1,Тур по всей стране,Япония,Киото,Hotel Granvia Kyoto,30,600000.00,100000.00,5*,1,Зима,9,2026-01-20,"Культура, горячие источники и многое другое",0
+2,Летние каникулы в Италии,Италия,Рим,Grand Hotel Roma,10,85000.00,32000.00,5*,1,Лето,3,2026-07-01,Роскошный отдых в центре Рима с питанием и трансфером,1
